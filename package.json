@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon --exec babel-node src/dec05/index.js"
+    "start": "nodemon --exec babel-node src/dec06/index.js"
   },
   "author": "lauren raddatz",
   "license": "MIT",
