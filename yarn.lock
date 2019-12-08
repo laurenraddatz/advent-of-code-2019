@@ -1015,6 +1015,11 @@ find-up@^3.0.0:
   dependencies:
     locate-path "^3.0.0"
 
+fs@^0.0.1-security:
+  version "0.0.1-security"
+  resolved "https://artifactory.workday.com/artifactory/api/npm/npm-virtual/fs/-/fs-0.0.1-security.tgz#8a7bd37186b6dddf3813f23858b57ecaaf5e41d4"
+  integrity sha1-invTcYa23d84E/I4WLV+yq9eQdQ=
+
 fsevents@~2.1.1:
   version "2.1.2"
   resolved "https://artifactory.workday.com/artifactory/api/npm/npm-virtual/fsevents/-/fsevents-2.1.2.tgz#4c0a1fb34bc68e543b4b82a9ec392bfbda840805"
